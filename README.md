@@ -18,7 +18,7 @@ Features:
 
 ### PCB 
 ![image](images/26_jan/Screenshot%20%28215%29.png)
-![image](images/26_jan/Screenshot%20%28201%29.png)
+![image](images/26_jan/Screenshot%20%28209%29.png)
 
 ### Case
 
