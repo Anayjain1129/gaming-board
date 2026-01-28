@@ -21,16 +21,8 @@ Features:
 ![image](images/26_jan/Screenshot%20%28209%29.png)
 
 ### Case
+![image](images/26_jan/Screenshot%20%28235%29.png)
+![image](images/26_jan/Screenshot%20%28242%29.png)
 
-![image](images/1.png)
-![image](images/2.png)
 
-
-### 3D view of all parts together 
-![image](images/1.png)
-![image](images/2.png)
-![image](images/3.png)
-![image](images/4.png)
-![image](images/5.png)
-![image](images/6.png)
-![image](images/complete.png)
+The firmware is still left and i'll do it ASAP
