@@ -13,7 +13,8 @@ Features:
 - Custom case
 
 ### Schematic
-![image]((images/26_jan/Screenshot(201).png))
+![image](images/26_jan/Screenshot%20%28201%29.png)
+
 ![image](images/26_jan/Screenshot (210).png)
 
 ### PCB 
